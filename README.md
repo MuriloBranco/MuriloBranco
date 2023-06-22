@@ -5,6 +5,6 @@
 - JAVASCRIPT
 - REACT
 - POSTGRESQL
-  
+## In progress:
 - 🌱 I’m currently learning NODEJS.
 - 🔭 I’m currently working on VG Educacional.
