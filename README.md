@@ -1,6 +1,7 @@
 ### Hello, my name is Murilo Branco
 # Technologies and Tools:
 - HTML5
+- TYPESCRIPT
 - CSS3
 - JAVASCRIPT
 - REACT
